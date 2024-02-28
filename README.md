@@ -63,4 +63,9 @@ print(npArray)
 
 ![image](https://github.com/Mverdy22A2/pengolahan-citra-TUGAS-1/assets/115523263/89acc87b-55b3-480d-9cda-2ac6dcaba240)
 
-# cukup sekian terima kasih
+# berikut adalah full code nya
+
+![image](https://github.com/Mverdy22A2/pengolahan-citra-TUGAS-1/assets/115523263/cbbf7176-c0fd-48fa-8d61-df6b39aea685)
+
+
+# cukup sekian & terima kasih
